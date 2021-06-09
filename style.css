@@ -1,0 +1,49 @@
+body {
+
+    background: linear-gradient(#e66465, #9198e5);
+    text-align: center;
+    background-repeat: no-repeat;
+
+}
+
+#albert {
+    height: 500px;
+    width: 500px;
+}
+
+
+
+#quotes {
+    font-size: 20px;
+
+    font-family: cursive;
+}
+
+h1 {
+    text-shadow: 1px 1px #000000;
+
+}
+
+.link {
+
+    padding-left: 33px;
+    padding-right: 25px;
+
+    font-family: fantasy;
+
+    font-size: 20px;
+    display: inline;
+}
+
+.link:hover {
+    color: skyblue;
+}
+
+
+
+#home {
+    background: linear-gradient(#e66465, #9198e5);
+    font-family: 'Mate SC', serif;
+}
+
+#about {}
