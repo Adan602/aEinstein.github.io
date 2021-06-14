@@ -59,3 +59,29 @@ h1 {
     width: 100%;
     margin-top: 0px;
 }
+
+#elsa {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+    width: 500px;
+    height: 500px;
+}
+
+#mileva {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+    width: 500px;
+    height: 500px;
+}
+
+
+#elsa:hover {
+
+    transform: scale(0.9);
+}
+
+
+
+#mileva:hover {
+    transform: scale(0.9);
+}
